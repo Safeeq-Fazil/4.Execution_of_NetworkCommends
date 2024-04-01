@@ -16,18 +16,17 @@ flash memory or permanent memory.
 <BR>
 This commands includes
 <BR>
-• Configuring the Router commands
-<BR>
-• General Commands to configure network
-<BR>
-• Privileged Mode commands of a router 
-<BR>
-• Router Processes & Statistics
-<BR>
-• IP Commands
-<BR>
-• Other IP Commands e.g. show ip route etc.
-<BR>
+1.Configuring the Router commands
+
+2.General Commands to configure network
+
+3.Privileged Mode commands of a router 
+
+4.Router Processes & Statistics
+
+5.IP Commands
+
+6.Other IP Commands e.g. show ip route etc.
 
 ## PROGRAM:
 ## PING COMMAND
