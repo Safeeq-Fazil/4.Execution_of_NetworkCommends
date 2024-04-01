@@ -5,17 +5,9 @@ Use of Network commands in Real Time environment
 Command Prompt And Network Protocol Analyzer
 ## Procedure: 
 To do this EXPERIMENT- follows these steps:
-<BR>
-In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
-<BR>
-All commands related to Network configuration which includes how to switch to privilege mode
-<BR>
-and normal mode and how to configure router interface and how to save this configuration to
-<BR>
-flash memory or permanent memory.
-<BR>
-This commands includes
-<BR>
+In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer.All commands related to Network configuration which includes how to switch to privilege modeand normal mode and how to configure router interface and how to save this configuration toflash memory or permanent memory.
+This commands includes:
+
 1.Configuring the Router commands
 
 2.General Commands to configure network
@@ -27,6 +19,7 @@ This commands includes
 5.IP Commands
 
 6.Other IP Commands e.g. show ip route etc.
+
 
 ## PROGRAM:
 ## PING COMMAND
